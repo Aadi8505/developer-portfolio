@@ -20,7 +20,7 @@ A professional portfolio template built with **Next.js 16**, **React 19**, and *
   
 
 <p align="center">
-  <a href="https://developer-portfolio-sigma-umber.vercel.app/" target="_blank">
+  <a href="https://aadi85.in/" target="_blank">
     <strong>🚀 View Live Demo</strong>
   </a>
 </p>
