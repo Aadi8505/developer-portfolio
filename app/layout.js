@@ -10,9 +10,14 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Aaditya Kumar - Web Developer",
+  title: "Portfolio",
   description:
     "This is the portfolio of Aaditya Kumar. I am a web developer and student at Chitkara University. I love to learn new technologies and am passionate about problem-solving. I enjoy building interactive web applications and creating beautiful user experiences.",
+  icons: {
+    icon: "data:,",
+    shortcut: "data:,",
+    apple: "data:,",
+  },
 };
 
 export default function RootLayout({ children }) {
