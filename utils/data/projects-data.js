@@ -9,28 +9,38 @@ export const projectsData = [
     code: "https://github.com/Aadi8505/College-ERP",
     demo: "https://college-erp-rg3k.vercel.app/",
   },
-  {
+   {
     id: 2,
+    name: "RFQ Auction System",
+    description:
+      "A modern web application for managing Request for Quote (RFQ) auctions using a British auction model. British Auction styled mechanism where Buyers can solicit quotes from multiple sellers and conduct real-time auctions to find the best pricing",
+    tools: ["React", "Node.js", "Express", "PostgreSQL", "JavaScript"],
+    role: "Full Stack Developer",
+    code: "https://github.com/Aadi8505/RFQ_System",
+    demo: "https://rfq-system-frontend.onrender.com/",
+  },
+  {
+    id: 3,
     name: "Malware Detection and Analysis",
     description:
       "Malware Detection and Analysis using Machine Learning (MDAML) is designed to provide users with an intuitive interface for analyzing and detecting malware in various file formats. Built with Python and Jupyter Notebook, this system uses advanced machine learning algorithms to identify and classify malware patterns efficiently.",
     tools: ["Python", "Machine Learning", "Jupyter Notebook", "Scikit-learn"],
-    role: "Full Stack Developer",
+    role: "Python Developer",
     code: "https://github.com/Aadi8505/Malware-Detection",
     demo: "https://malware-detection-rob4.onrender.com/",
   },
   {
-    id: 3,
+    id: 4,
     name: "Facial Recognition Attendance System",
     description:
       "A Face Recognition–based Attendance System built using Python and Flask. It allows users to register faces and automatically detect and mark attendance through a web interface. Features real-time face detection, recognition, and automated attendance marking with a user-friendly dashboard.",
     tools: ["Python", "Flask", "OpenCV", "Face Recognition", "HTML", "CSS"],
-    role: "Full Stack Developer",
+    role: "Python Developer",
     code: "https://github.com/Aadi8505/Facial_Recognition_Attendance_Management_System",
     demo: "",
   },
   {
-    id: 4,
+    id: 5,
     name: "GetYourGuidance",
     description:
       "A student guidance portal built with vanilla HTML, CSS, and JavaScript. The website provides guidance and resources for students looking for career advice and educational support. It features a clean, interactive interface with information about various career paths and study materials.",
