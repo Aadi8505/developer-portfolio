@@ -7,7 +7,7 @@ export const projectsData = [
     tools: ["React", "Node.js", "Express", "MongoDB", "JavaScript"],
     role: "Full Stack Developer",
     code: "https://github.com/Aadi8505/College-ERP",
-    demo: "https://college-erp-rg3k.vercel.app/",
+    demo: "https://erp.aadi85.in/",
   },
    {
     id: 2,
@@ -17,7 +17,7 @@ export const projectsData = [
     tools: ["React", "Node.js", "Express", "PostgreSQL", "JavaScript"],
     role: "Full Stack Developer",
     code: "https://github.com/Aadi8505/RFQ_System",
-    demo: "https://rfq-system-frontend.onrender.com/",
+    demo: "https://auction.aadi85.in/",
   },
   {
     id: 3,
